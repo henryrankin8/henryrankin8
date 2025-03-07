@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+-I am a 3rd year BCom student at the University of British Columbia specializing in Business Technology Management.
+-I will be working as a technology consultant intern in the cybersecurity practice at EY from May-August, 2025.
+-I am currently diving deeper into Python, and hope to learn more about how I can automate security tasks in platforms such as Microsoft Defender XDR, and Splunk.
 <!--
 **henryrankin8/henryrankin8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
